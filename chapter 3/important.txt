@@ -1,0 +1,7 @@
+when you use......
+
+and= &&
+
+or=||
+
+not= !
