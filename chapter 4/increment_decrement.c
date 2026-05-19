@@ -14,3 +14,5 @@ int main(){
 
 // i++ prints first and then increments (post increment oprators)
 // ++1 increments first and then prints i (post increment oprators)
+
+// thank you
