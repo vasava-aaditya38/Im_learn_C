@@ -20,4 +20,8 @@ int main(){
     printf("Tha sum of first 10 natural number is %d",sum);
     
     return 0;
-}   
+} 
+
+
+
+
