@@ -4,13 +4,16 @@
 //     int n = 7;
 //     int prime = 0;
 
-//     for (int i = 2; i < n; i++)
+//     int i = 2;
+
+//      while( i < n)
 //     {
 //         if(n%i == 0)
 //         {
 //             prime = 1;
 //             break;
 
+//             i++;
 //         }
 //     }
 
