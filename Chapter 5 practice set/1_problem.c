@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-float avarage(int,int,int);
+// float avarage(int,int,int);    optional
 
 float avarage(int a ,int b ,int c){
 
